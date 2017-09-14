@@ -90,7 +90,7 @@ App({
   },  
   globalData:{
     userInfo:null,
-    subDomain: "mall",
+    subDomain: "yueya",
     version: "1.5.1"
   }
 })
